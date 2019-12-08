@@ -321,6 +321,12 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="EasyRoads3Dv3Editor">
+      <HintPath>D:/MI unity/boat-racing/Assets/EasyRoads3D/Editor/EasyRoads3Dv3Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="EasyRoads3Dv3">
+      <HintPath>D:/MI unity/boat-racing/Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>D:/MI unity/boat-racing/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
